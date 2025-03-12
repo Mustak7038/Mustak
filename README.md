@@ -1,3 +1,3 @@
 # Mustak
-This is my first git repository
-author - mustak khan
+This is my first git repository.
+Author - mustak khan
